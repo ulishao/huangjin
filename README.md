@@ -3,6 +3,8 @@
 
 https://www.tixing.xyz
 
+点击注册 https://www.tixing.xyz/apply/register
+
 黄金价格将会在小于268 大于275发送邮箱提醒买入卖出
 
 
