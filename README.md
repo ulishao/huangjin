@@ -1,4 +1,4 @@
-# huangjin
+# 京东黄金
 黄金价格提醒在线
 
 https://www.tixing.xyz
@@ -17,3 +17,6 @@ https://www.tixing.xyz
 http://fund.eastmoney.com/161028.html
 
 连跌20%提醒
+
+
+接口地址来源:https://ms.jr.jd.com/gw/generic/hj/h5/m/currentGoldPrice
