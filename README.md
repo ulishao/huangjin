@@ -3,7 +3,7 @@
 
 https://www.tixing.xyz
 
-点击注册 https://www.tixing.xyz/apply/register
+点击注册or重置密码 https://www.tixing.xyz/apply/register
 
 测试帐号:980167048@qq.com
 
