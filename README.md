@@ -23,3 +23,8 @@ http://fund.eastmoney.com/161028.html
 
 买入人数接口:https://ms.jr.jd.com/gw/generic/hj/h5/m/queryGoldOrders?reqData=%7B%22pageIndex%22%3A%221%22%2C%22pageSize%22%3A%2210%22%7D&sid=4b84e7dee709c7f1284eaae709cde1fb&source=jrm&_=1521804856925
 
+##即将上线
+
+- [x] 黄金价格提醒
+- [ ] 基金价格提醒  
+- [ ] 股票价格提醒
