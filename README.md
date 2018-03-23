@@ -11,6 +11,7 @@ https://www.tixing.xyz
 
 ```黄金价格将会在小于268 大于275发送邮箱提醒买入卖出```
 
+定时请求接口 http://localhost/home/acit
 
 基金价格涨幅提醒
 
